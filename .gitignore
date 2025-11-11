@@ -1,0 +1,58 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Visual Studio / Rider / IDE
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.booproj
+*.svd
+
+# Unity cache / auto generated
+*.unityproj
+*.log
+*.meta.tmp
+*.mdb
+*.pdb
+
+# Build results
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+*.ipa
+*.xcodeproj
+*.xcworkspace
+*.xcuserdatad
+
+# OS specific
+[Dd]ebug/
+[Rr]elease/
+[Tt]estResults/
+[Bb]in/
+[Oo]bj/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Unity Collaborate / Plastic
+.Collab/
+.plastic/
