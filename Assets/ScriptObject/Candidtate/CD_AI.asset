@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7423301eab9ee9d43aa951fbd5af9b96, type: 3}
+  m_Name: CD_AI
+  m_EditorClassIdentifier: 
+  candidateName: Trump
+  party: 
+  publicAppeal: 10
+  policySkill: 4
+  organization: 4
+  integrity: 4
+  economy: 0
+  social: 0
+  security: 0
+  environment: 0
+  sloganText: MAGA
+  sloganTheme: 0
+  mainIssue: 1
+  emotion: 4

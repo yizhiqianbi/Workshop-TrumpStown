@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51026ea93ed9d4341b2d4c1a5185a629, type: 3}
+  m_Name: EV_TVDebate_01
+  m_EditorClassIdentifier: 
+  eventId: TVDebate01
+  title: American Detabe
+  description: American Detabe
+  category: 2
+  earliestWeek: 1
+  latestWeek: 12
+  baseChance: 0.2
+  fixedWeek: 1
+  fixedWeekNumber: 4
+  choices:
+  - choiceId: AggressiveAttack
+    label: AggressiveAttack
+    description: AggressiveAttack
+    deltaPublicAppeal: 1
+    deltaPolicySkill: 1
+    deltaOrganization: 1
+    deltaIntegrity: 1
+    opinionBoost: 1
+    scandalRiskChange: 1
+  - choiceId: PlaySafe
+    label: PlaySafe
+    description: PlaySafe
+    deltaPublicAppeal: -1
+    deltaPolicySkill: -1
+    deltaOrganization: -1
+    deltaIntegrity: -1
+    opinionBoost: -1
+    scandalRiskChange: 1
